@@ -2,11 +2,12 @@ body {
   margin: 0;
   padding: 20px;
   font-family: "Montserrat", sans-serif;
-  background-color: #f7f7f7;
+  background-color: #295c90;
+  
 }
 
 .container {
-  background-color: white;
+  background-color: rgb(12, 149, 156);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
   max-width: 600px;
@@ -42,8 +43,9 @@ input {
 }
 
 button {
-  background-color: #007bff;
+  background-color: #072c7b;
   color: white;
+  font-style:bold;
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -53,7 +55,7 @@ button {
 }
 
 button:hover {
-  background-color: #0062cc;
+  background-color: #070836;
 }
 
 #result {
